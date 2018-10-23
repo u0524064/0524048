@@ -47,13 +47,13 @@
 
 
 ## 系統畫面
-# 登入畫面
+### 登入畫面
 ![image](https://github.com/u0524064/0524048/blob/master/%E7%99%BB%E5%85%A5.png?raw=true)
-# 熱門
+### 熱門
 ![image](https://github.com/u0524064/0524048/blob/master/%E7%86%B1%E9%96%80.png?raw=true)
-# 個人書籤
+### 個人書籤
 ![image](https://github.com/u0524064/0524048/blob/master/%E5%80%8B%E4%BA%BA.png?raw=true)
-# 好友
+### 好友
 ![image](https://github.com/u0524064/0524048/blob/master/%E5%A5%BD%E5%8F%8B.png?raw=true)
 
 ## 系統畫面活動圖(分為「非會員」與「會員」兩部分)：
