@@ -56,8 +56,8 @@
 
 ## 系統畫面活動圖(分為「非會員」與「會員」兩部分)：
 ### 非會員</p>
-![image](https://github.com/u0524064/0524048/blob/master/%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2%E6%B4%BB%E5%8B%95%E5%9C%96(%E9%9D%9E%E6%9C%83%E5%93%A1).png?raw=true)
+![image](https://github.com/u0524064/0524048/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96(%E9%9D%9E%E6%9C%83%E5%93%A1).png?raw=true)
 ### 會員</p>
-![image](https://github.com/u0524064/0524048/blob/master/%E7%B3%BB%E7%B5%B1%E7%95%AB%E9%9D%A2%E6%B4%BB%E5%8B%95%E5%9C%96(%E6%9C%83%E5%93%A1).png?raw=true)
+![image](https://github.com/u0524064/0524048/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96(%E6%9C%83%E5%93%A1).png?raw=true)
         
       
