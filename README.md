@@ -62,5 +62,29 @@
 ![image](https://github.com/u0524064/0524048/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96(%E9%9D%9E%E6%9C%83%E5%93%A1).png?raw=true)
 ### 會員</p>
 ![image](https://github.com/u0524064/0524048/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96(%E6%9C%83%E5%93%A1).png?raw=true)
-        
-      
+
+## 循序圖
+![image](https://github.com/u0524064/0524048/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%96.png?raw=true)
+## 類別圖
+![image](https://github.com/u0524064/0524048/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.png?raw=true)
+## 測試計畫
+![image](https://github.com/u0524064/0524048/blob/master/%E6%B8%AC%E8%A9%A6%E8%A8%88%E7%95%AB.png?raw=true)
+
+
+## 目前進度
+### 登入介面
+![image](https://github.com/u0524064/0524048/blob/master/%E7%9B%AE%E5%89%8D%E9%80%B2%E5%BA%A6-%E7%99%BB%E5%85%A5%E4%BB%8B%E9%9D%A2.png?raw=true)
+
+### 首頁(以最新排序)
+![image](https://github.com/u0524064/0524048/blob/master/%E7%9B%AE%E5%89%8D%E9%80%B2%E5%BA%A6-%E9%A6%96%E9%A0%81.png?raw=true)</p>
+### 使用者介面
+### 新增資料夾
+![image](https://github.com/u0524064/0524048/blob/master/%E7%9B%AE%E5%89%8D%E9%80%B2%E5%BA%A6-%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A21.png?raw=true)
+### 新增書籤
+![image](https://github.com/u0524064/0524048/blob/master/%E7%9B%AE%E5%89%8D%E9%80%B2%E5%BA%A6-%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A22.png?raw=true)
+### 個人書籤瀏覽
+![image](https://github.com/u0524064/0524048/blob/master/%E7%9B%AE%E5%89%8D%E9%80%B2%E5%BA%A6-%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A23.png?raw=true)
+
+### 使用者資料編輯
+![image](https://github.com/u0524064/0524048/blob/master/%E7%9B%AE%E5%89%8D%E9%80%B2%E5%BA%A6-%E4%BD%BF%E7%94%A8%E8%80%85%E8%B3%87%E6%96%99%E7%B7%A8%E8%BC%AF.png?raw=true)
+
